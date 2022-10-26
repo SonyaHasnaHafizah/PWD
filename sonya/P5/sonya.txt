@@ -1,0 +1,7 @@
+21|sonya|MESIN|MI|Laki-laki
+2021|sonya|TI|MI|Wanita
+213|tono|AN|TRPL|Laki-laki
+2021 . sonya|TI|MI|Laki-laki
+12 . sonya|AN|MI|Wanita
+2101|sonya|AN|TK|Wanita
+2101092021|Sonya Hasna Hafizah|TI|MI|Wanita
